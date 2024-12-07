@@ -1,0 +1,44 @@
+.best-scenario {
+    padding: 16px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .vector-image {
+    width: 30px;
+    height: 30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    fill: #dcff7f;
+  }
+  
+  .scenario-title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #dcff7ffd;
+    margin-bottom: 16px;
+  }
+  
+  .scenario {
+    background-color: #1b1b1b;
+    padding: 12px 16px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    color: #a2fa63;
+    border: 1px solid #a2fa63;
+    font-size: 16px;
+    font-weight: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .scenario .action-btn {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    width: 24px;
+    font-size: 1rem;
+    color: #a2fa63;
+  }
+  
